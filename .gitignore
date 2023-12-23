@@ -1,6 +1,7 @@
 #NDA
 config.py
 credentials.json
+token.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
